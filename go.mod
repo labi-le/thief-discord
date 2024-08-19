@@ -3,7 +3,7 @@ module thief
 go 1.22
 
 require (
-	dario.cat/mergo v1.0.0
+	dario.cat/mergo v1.0.1
 	github.com/diamondburned/arikawa/v3 v3.4.0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/patrickmn/go-cache v2.1.0+incompatible
