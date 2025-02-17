@@ -9,7 +9,7 @@ require (
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pkg/errors v0.9.1
 	github.com/rs/zerolog v1.33.0
-	github.com/sethvargo/go-envconfig v1.1.0
+	github.com/sethvargo/go-envconfig v1.1.1
 	modernc.org/sqlite v1.35.0
 )
 
